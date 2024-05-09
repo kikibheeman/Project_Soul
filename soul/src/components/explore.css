@@ -1,0 +1,70 @@
+.exp
+{
+    font-family: "Proxima Nova","Proxima Nova Fallback",sans-serif;
+    font-size: 32px;
+    justify-content: space-between;
+    padding: 0px 0px 20px;
+    border-bottom-color:  #dcdbdb ;
+    border-bottom-width: 2px;
+    border-bottom-style: solid ;
+    padding-top: 30px;
+    padding-left: 200px;
+    align-content: center;
+    
+
+}
+
+.t1
+{
+    font-family:cursive,"Brush Script MT","Brush Script Std";
+    padding-left: 185px;
+    padding-top: 0px;
+    font-weight: 500;
+    font-size: 22px;
+    
+}
+
+.t
+{
+    font-family:cursive,"Brush Script MT","Brush Script Std";
+    padding-left: 185px;
+    
+    font-weight: 500;
+    font-size: 22px;
+    
+}
+
+.nut
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 180px;
+    
+}
+
+.yoga
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 223px;
+    
+}
+
+.med
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 250px;
+}
+.pod
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 300px;
+}
+.cns
+{
+    height: 100px;
+    width: 100px;
+    padding-left: 250px;
+}

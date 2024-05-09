@@ -1,0 +1,109 @@
+#bo
+{
+    background-color: grey;
+}.yogapback
+{
+    top: 85px;
+    margin-left: 580px;
+    height: 10%;
+    width: 45%;
+    position: absolute;
+
+}
+#head{
+    color:rgb(136, 136, 228);
+    padding-left: 175px;
+    padding-top: 105px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#foot{
+    padding-top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 175px;
+}
+#one{
+    position:sticky;
+    margin-top: 280px;
+    margin-left:  170px;
+    height: 45%;
+    width: 30%;
+
+}
+#two{
+    position:sticky;
+    margin-top:280px ;
+}
+#sss{
+
+    width: 14.3%;
+}
+#three{
+    position:sticky;
+}
+#text{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 300px;
+    padding-left: 0%;
+    font-size:30px;
+    color:rgb(45, 60, 71)
+}
+
+#button1{
+    position:absolute;
+    margin-left:250px ;
+    margin-top: 50px;
+}
+
+.crd{
+    padding-top:145px;
+    position:absolute;
+    margin-left: 170px;
+    
+
+}
+#cardti{
+    color:rgb(27, 27, 69);
+    padding-left: 175px;
+    padding-top: 30px;
+    position:absolute;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#whole{
+    background-color: rgb(153, 152, 152);
+}
+#colstack{
+    padding-top: 30px;
+    margin-left: 170px;
+    margin-top: 750px;
+}
+#collage{
+    background-color:rgb(186, 186, 231);
+    height:550px;
+    margin-top: 700px;
+}
+#coltext{
+    margin-left: 30px;
+    font-size: 100px;
+    margin-top: 40px;
+    color: beige;
+    letter-spacing: 5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#se{
+    margin-left: 170px;
+    font-size: 30px;
+    padding-top: 30px;
+}
+#pur{
+    margin-left: 170px;
+}
+#look{
+    font-size:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+

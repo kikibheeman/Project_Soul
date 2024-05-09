@@ -1,0 +1,119 @@
+.featured
+{
+    font-family: "Proxima Nova","Proxima Nova Fallback",sans-serif;
+    font-size: 32px;
+    justify-content: space-between;
+    padding: 0px 0px 20px;
+    border-bottom-color:  #dcdbdb ;
+    border-bottom-width: 2px;
+    border-bottom-style: solid ;
+    padding-top: 30px;
+    padding-left: 200px;
+    align-content: center;
+
+}
+.inso
+{
+    padding-top: 25px;
+    padding-left: 200px;
+    height: 430px;
+    width: 660px;
+ 
+    position: sticky;
+    
+}
+
+.instext
+{
+    font-family: "Proxima Nova Condensed","Proxima Nova Condensed Fallback",sans-serif;
+    padding-left: 200px;
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+
+
+.img1
+{
+    height: 150px;
+    width: 200px;
+    padding-top: 5px;
+    margin-left: 45px;
+    
+}
+
+.img2
+{
+    height: 150px;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 45px;
+    
+}
+
+.txt1
+{
+    font-weight: 500;
+    font-family: "Proxima Nova Condensed","Proxima Nova Condensed Fallback",sans-serif;
+    margin-top: 20px;
+    padding-left: 30px;
+    font-size: 26px;
+}
+
+.txt2
+{
+    position:absolute;
+    font-weight: 500;
+    font-size: 26px;
+    font-family: "Proxima Nova Condensed","Proxima Nova Condensed Fallback",sans-serif;
+    padding-left: 30px;
+    margin-top: 105px;
+}
+
+
+
+.img3
+{
+    height: 150px;
+    width: 200px;
+    margin-top: 30px;
+    margin-left: 45px;
+    
+}
+
+.txt3
+{
+    position:absolute;
+    font-weight: 500;
+    font-size: 26px;
+    font-family: "Proxima Nova Condensed","Proxima Nova Condensed Fallback",sans-serif;
+    margin-top: 285px;
+    padding-left: 30px;
+}
+
+.instxt1
+{
+    
+    font-weight: 500;
+    font-size: 17px;
+    font-family: "Proxima Nova Condensed","Proxima Nova Condensed Fallback",sans-serif;
+    padding-left: 200px;
+    margin-top:17px;
+    
+}
+#pic1text{
+    position: absolute;
+    margin-left: 28px;
+    margin-top: 5px;
+}
+#pic2text{
+    position: absolute;
+    margin-left: 28px;
+    margin-top: 150px;
+}
+#pic3text{
+    position: absolute;
+    margin-left: 28px;
+    margin-top: 365px;
+}

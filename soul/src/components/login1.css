@@ -1,0 +1,76 @@
+
+.sign2{
+    background-color:#d69c9c;
+    width: 700px;
+    
+
+}
+.rectf1l{
+    background-color:rgb(254, 248, 248);
+    padding-left: 30px;
+    margin-top: 80px;
+    margin-left:-100px;
+    width: 250px;
+    height: 280px;
+    border-radius: 25px;
+   
+}
+.logpic{
+    height: 500px;
+    width: 400px;
+}
+
+/*.circle{
+    position:absolute;
+    height:100px;
+    width:100px;
+    background-color: white;
+    border-radius:50%;
+    margin-top: 30px;
+    margin-left:-25px;
+}*/
+.sigbl{
+    margin-right:110px;
+    background-color:#ECC1C1;
+    width: 50px;
+    height: 35px;
+    border-radius: 10px;
+    border-color:black;
+
+}
+.tableconl{
+    margin-top: 50px;
+}
+.tableheadl{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 3px;
+    position:absolute;
+    top: 130px;
+    
+    
+}
+.tableinputl{
+    background-color:#ECC1C1;
+    border-radius: 10px;
+    height:35px;
+    width: 200px;
+    border-color: rgb(194, 193, 193);
+    margin-top: 15px;
+
+}
+.tableheadl1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 7px;
+    position: absolute;
+    top:210px
+    
+}
+.tableinputl1{
+    background-color:#ECC1C1;
+    border-radius: 10px;
+    height:35px;
+    width: 200px;
+    border-color: rgb(194, 193, 193);
+    margin-top: 32px;
+
+}

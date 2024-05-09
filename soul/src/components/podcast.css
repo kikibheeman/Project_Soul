@@ -1,0 +1,62 @@
+#podwhole{
+    background-color: rgb(204, 227, 192);
+    height: 550px;
+    
+    
+}
+#topi1{
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+#topi2{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+#topi3{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+#podpic1{
+    margin-left: 1090px;
+    margin-top: 220px;
+    position: absolute;
+    border-radius: 50px;
+}
+#podpic2{
+    padding-top: 20px;
+    margin-left:820px;
+    margin-top:50px;
+    border-radius: 50px;
+}
+#podpic3{
+    padding-top: 20px;
+    margin-left:920px;
+    border-radius: 50px;
+
+    
+}
+#podtext{
+    position:absolute;
+    margin-left: 90px;
+    font-size: 70px;
+    margin-top: 100px;
+}
+#podc1{
+    border-radius: 20px;
+    width:150px;
+}
+#thepod{
+    padding-top: 45px;
+    padding-left: 270px;
+}
+.linep{
+position: absolute;
+width:900px;
+
+}

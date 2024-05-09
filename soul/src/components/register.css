@@ -1,0 +1,68 @@
+.maincard1{
+    width:750px;
+    height: 475px;
+    margin: 0 auto;
+    margin-top:100px;
+}
+.tablecon1{
+    margin-top:50px;
+
+}
+.tablehead1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 7px;
+    padding: 10px;
+}
+.thesecond{
+    margin-top: 10px;
+}
+
+.tableinput1{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height:45px;
+    border-color: rgb(246, 244, 244);
+    padding: 10px;
+    width: 300px;
+
+}
+
+.sigb{
+    margin-left:97px;
+    background-color: whitesmoke;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+/* input[type="text"] {
+    height: 35px;
+    padding: 5px;
+    width: 300px;
+    border-bottom: 1px;
+    border: none;
+    /* border-bottom: 1px solid black; 
+    outline: none;
+    border-radius: 10px;
+} */
+.forLogin{
+    font-family: fantasy;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
+.thesignupbutton{
+    margin-left: 825px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.fordown{
+    margin-left: 900px;
+    margin-top: -25px;
+}
+

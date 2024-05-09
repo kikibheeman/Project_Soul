@@ -1,0 +1,231 @@
+#thecover1{
+    background-color: whitesmoke;
+    }
+
+    .nutri
+{
+    position: absolute;
+    height: 500px;
+    width: 1400px;
+    margin-top: 25px;
+    left: 70px;
+    
+
+   
+}
+.nutext
+{
+    position: absolute;
+    top: 700px;
+    left:70px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bx
+{
+    font-family: "Proxima Nova","Proxima Nova Fallback",sans-serif;
+    position: absolute;
+    top: 595px;
+    align-self: flex-end;
+    box-sizing: border-box;
+    left: 55px;
+    width: 270px;
+    font-size: 64px;
+    
+    
+    
+}
+
+.card1
+{
+    position: absolute;
+    left: 850px;
+    top: 700px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+.card2
+{
+    position: absolute;
+    left: 1115px;
+    top: 700px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.card3
+{
+    position: absolute;
+    left: 820px;
+    top: 1050px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.card4
+{
+    position: absolute;
+    left: 1120px;
+    top: 1050px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.nux
+{
+    position:absolute;
+    top: 600px;
+    left: 920px;
+    
+}
+
+.carbs
+{
+    height: 150px;
+    width: 240px;
+    border-radius: 25px;
+}
+
+.nutrition
+{
+    position: absolute;
+    left: 655px;
+    top: 250px;
+    font-family: "Proxima Nova","Proxima Nova Fallback",sans-serif;
+    font-size: 64px;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+
+.add
+{
+    position: absolute;
+    top: 1450px;
+    left: 70px;
+    border-bottom-color:  #dcdbdb ;
+    border-bottom-width: 2px;
+    border-bottom-style: solid ;    
+}
+
+
+
+.fc
+{
+    position: absolute;
+   
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    top: 775px;
+    left: 55px;
+    
+    
+}
+
+.fc1
+{
+    position: absolute;
+   
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+    
+    top: 775px;
+    left: 370px;
+}
+
+.fc2
+{
+    position: absolute;
+   
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+    
+    top: 775px;
+    left: 720px;
+}
+
+.fc3
+{
+    position: absolute;
+   
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+    
+    top: 775px;
+    left: 1070px;
+}
+
+.grp
+{
+    margin-top: 200px;
+}
+.health
+{
+    
+    padding-top: 1100px;
+    border-bottom-color:  #dcdbdb ;
+    border-bottom-width: 2px;
+    border-bottom-style: solid ;  
+}
+
+.he1
+{
+    position: absolute;
+    top: 1250px;
+    left: 55px;
+    
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.he2
+{
+    position: absolute;
+    top: 1250px;
+    left: 370px;
+    
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.he3
+{
+    position: absolute;
+    top: 1250px;
+    left: 720px;
+    
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.he4
+{
+    position: absolute;
+    top: 1250px;
+    left: 1070px;
+    
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

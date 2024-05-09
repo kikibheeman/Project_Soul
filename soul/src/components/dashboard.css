@@ -1,0 +1,81 @@
+.table-dark{
+    margin-left:15px;
+}
+/* .thetable{
+    margin: 0 auto;
+} */
+
+.page-title1{
+    font-family: fantasy;
+    font-size: 75px;
+    padding-left: 310px;
+    color:#7a2973;
+    margin-left: 200px;
+
+}
+
+
+.pag1{
+    border-radius: 10px;
+    width:5cm;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height:45px;
+    border-color: rgb(246, 244, 244);
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 170px;
+    
+    
+
+}
+.pag2{
+    border-radius: 10px;
+    width:5cm;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height:45px;
+    border-color: rgb(246, 244, 244);
+    padding: 10px;
+    
+
+}
+#dashbo{
+    background-color: rgb(235, 232, 232);
+}
+.dropdown1{
+    position: absolute;
+    margin-top:-370px;
+    margin-left:1190px;
+
+}
+.dropdown{
+
+    position: absolute;
+    
+    
+
+}
+.dropp{
+    position: absolute;
+    top:6.5%;
+    left:-150%;
+
+}
+.ser{
+
+    border-radius: 10px;
+    width:5cm;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height:45px;
+    border-color: rgb(246, 244, 244);
+    padding: 10px;
+    position:absolute;
+    margin-top:-320px;
+    margin-left:-378px;
+
+}
+#BUTTS{
+    margin-left: 50px;
+}

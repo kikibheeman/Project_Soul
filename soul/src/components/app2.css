@@ -1,0 +1,61 @@
+body{
+background-color: whitesmoke;
+}
+.rect
+{
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  position: absolute;
+  left: 95px;
+  margin-top: 135px;
+  border-radius: 55px;
+}
+
+.rect1
+{
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  position: absolute;
+  left: 1150px;
+  top: 250px;
+  border-radius: 55px;
+}
+
+.tt
+{
+  color:white;
+  text-align: center;
+  margin-top: 45px;
+  
+}
+
+.des1
+{
+  font-family: "Proxima Nova","Proxima Nova Fallback",sans-serif;
+  color: white;
+  position: absolute;
+  padding-top: 215px;
+  padding-left: 115px;
+  font-size: 24px;
+  margin-top: 40px;
+  
+}
+
+.b1
+{
+  position: absolute;
+  margin-top: 365px;
+  margin-left: 240px;
+  
+}
+.homepic1
+{
+    
+    margin-top: 27px;
+    width: 1000px;
+    margin-left: 275px;
+    border-radius: 75px;
+    
+}

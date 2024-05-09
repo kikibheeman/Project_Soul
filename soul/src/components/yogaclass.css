@@ -1,0 +1,83 @@
+.icon
+{
+    position:absolute;
+    margin-left: 400px;
+    margin-top: 20px;
+    
+}
+.V{
+    position: absolute;
+    padding-top:45px;
+    padding-left: 170px;
+}
+.top{
+    color: rgb(113, 112, 112);
+    padding-left: 550px;
+    font-size: 45px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    /* font-weight: 20; */
+    letter-spacing:-2px;
+    margin-top: 49px;
+    margin-left: 150px;
+}
+.line
+{
+    color: rgb(101, 196, 196);
+    width: 976px;
+    padding-left: 170px;
+    
+}
+.icon{
+    position: absolute;
+    height: 55px;
+    width:45px;
+    top:90px ;
+    left:210px;
+}
+#circle {
+    background: lightblue;
+    height: 270px;
+    width:270px;
+    border-radius: 100%;
+}
+.cirhead{
+    padding-top: 20px;
+}
+#w1{
+position:absolute;
+margin-top:937px;
+color: white;
+font-size: 70px;
+margin-left: 20px;
+}
+#w2{
+position:absolute;
+margin-top: 937px;
+margin-left: 320px;
+color: white;
+font-size: 70px;
+}
+#w3{
+position:absolute;
+margin-top: 937px;
+margin-left: 620px;
+color:white;
+font-size: 70px;
+}
+#w4{
+position:absolute;
+font-size: 70px;
+margin-top: 937px;
+margin-left: 910px;
+color:white;
+}
+#lev{
+    margin-left: 170px;
+    margin-top: -25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(131, 139, 214);
+}
+#clock{
+    color: rgb(131, 139, 214);
+}

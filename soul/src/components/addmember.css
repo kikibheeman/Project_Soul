@@ -1,0 +1,67 @@
+
+.maincard{
+    height: 1230px;
+    width: 800px;
+    margin:0 auto;
+    margin-top: 50px;
+    
+}
+
+.page-title{
+    font-family: fantasy;
+    font-size: 75px;
+    padding-left: 310px;
+    color:#7a2973;
+}
+.card-title{
+    font-family:cursive;
+    padding-left: 50px;
+    margin-left: 45px;
+    margin-top: 25px;
+
+}
+#thehead{
+    font-family:cursive;
+    margin-left: 55px;
+    padding: 8px;
+
+}
+
+#thebut{
+    margin-left:390px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+
+.forinput{
+    
+    border-radius: 10px;
+    width:18cm;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height:45px;
+    border-color: rgb(246, 244, 244);
+    padding: 10px;
+    
+}
+
+#addbo{
+    background-color: rgb(235, 232, 232);
+}
+
+/* input[type="text"], [type=number] {
+    
+    
+    height: 35px;
+    width: 10cm;
+    padding: 5px;
+    border-bottom: 1px ;
+    border: none;
+    
+    outline:none;
+    
+
+
+} */
+

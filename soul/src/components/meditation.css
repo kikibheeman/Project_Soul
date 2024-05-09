@@ -1,0 +1,148 @@
+#medbo{
+    background-color: rgb(235, 232, 232);
+}
+#medgif{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+#medhead{
+    position: absolute;
+    margin-left: 150px;
+    margin-top:-400px;
+    font-size: 50px;
+    letter-spacing: 2px;
+    color: rgb(152, 64, 78);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#sub{
+    position:absolute;
+    margin-left: 150px;
+    margin-top: -300px;
+    font-size: 18px;
+}
+#cir{
+    margin-left: 170px;
+}
+#c1{
+    border-radius: 50%;
+
+    position:sticky;
+    margin-top: 100px;
+}
+#c2{
+    border-radius: 50%;
+
+    position:sticky;
+    margin-top: 100px;
+}
+#c3{
+    border-radius: 50%;
+
+    position:sticky;
+    margin-top: 100px;
+}
+#c1t{
+   
+margin-left: 330px;
+margin-top: -130px;
+font-size: 30px;
+}
+#c2t{
+margin-left: 687px;
+margin-top: -90px;
+font-size: 30px;
+}
+#c3t{
+margin-left:1030px;
+margin-top: -80px;
+font-size: 30px;
+}
+#text1{
+    margin-left: 170px;
+    margin-top:100px
+}
+#text2{
+    margin-left: 537px;
+    margin-top: -50px;
+}
+#text3{
+    margin-left: 890px;
+    margin-top: -72px;
+}
+#picstack{
+    margin-top: 150px;
+    margin-left: 170px;
+}
+#bigpic{
+    position:sticky;
+    margin-left: 170px;
+    margin-top:30px;
+    
+}
+#bigtext{
+    position:absolute;
+    color:white;
+    font-size: 20px;
+    margin-left: 110px;
+    margin-top: 25px;
+
+    
+}
+#st{
+    padding-top: 35px;
+}
+#m1{
+    margin-left: -350px;
+    margin-top: 5px;
+
+}
+#m1t{
+    margin-left: 150px;
+    margin-top: -75px;
+}
+#m2t{
+    margin-left: 90px;
+    margin-top: -75px;
+}
+#m3t{
+    margin-left: 190px;
+    margin-top: -75px;
+}
+#m2{
+    margin-left: 450px;
+}
+#m3{
+    margin-left: -350px;
+}
+#stmed{
+    font-size: 50px;
+    margin-top: 90px;
+    margin-left: 230px;
+    color: rgb(39, 39, 72);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#stmed1{
+    margin-left: 155px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#vi{
+    margin-left: 165px;
+    margin-top: 125px;
+}
+#stop{
+    font-size: 250px;
+    margin-left: 170px;
+    color:white;
+    margin-top: 70px;
+
+}
+#j1{
+    margin-left: 170px;
+    padding: 20px;
+}
+.grp1
+{
+    margin-top: 60px;
+}
